@@ -1,0 +1,9 @@
+{
+  "name": "irktours-ai-gigachat-site-v3",
+  "version": "1.0.0",
+  "description": "IRKTOURS.AI preliminary tour planner with GigaChat backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "type": "commonjs",
+  "dependencies": { "dotenv": "^16.4.5", "express": "^4.21.2" }
+}
